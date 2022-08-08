@@ -1,0 +1,10 @@
+##- type: entityTargetAction
+##  id: XenoFling
+##  name: Fling
+##  description: Flings a target away
+##  icon: Interface/Actions/disarmOff.png
+##  iconOn: Interface/Actions/disarm.png
+##  useDelay: 6.0
+##  interactOnMiss: true
+##  event: !type:XenoFlingEvent
+##  canTargetSelf: false
