@@ -12,7 +12,7 @@
     canDisarm: true
   - type: InputMover
   - type: MobMover
-  - type: UtilityAI
+  - type: UtilityNPC
     behaviorSets:
     - Idle
     - UnarmedAttackHostiles
@@ -365,7 +365,7 @@
       gender: male
   - type: InputMover
   - type: MobMover
-  - type: UtilityAI
+  - type: UtilityNPC
     behaviorSets:
     - Idle
     - UnarmedAttackHostiles
